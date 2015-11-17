@@ -4,6 +4,6 @@ h3 {font-family: impact;}
 h4 {font-family: arial;}
 p {font-family: impact;}
 figcaption {font-family: times;}
-figure {border: 2px; padding: 4px;}
-figure {float;}
+img {border: 2px; padding: 4px;}
+img {float: center;}
 body {background-color: blue; text-color: black;}
